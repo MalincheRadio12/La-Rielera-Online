@@ -1,6 +1,6 @@
 {
-  "name": "La Rielera",
-  "short_name": "La Rielera",
+  "name": "La Rielera Online",
+  "short_name": "La Rielera Online",
   "description": "Radio Online",
   "start_url": "/?utm_source=web_app_manifest",
   "display": "standalone",
